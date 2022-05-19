@@ -30,6 +30,6 @@
 
 ## 使用
 
-Android：apk可从"H:\Android-Course-App\Android app\build\app\outputs\apk\release\app-release.apk"处获取
+Android：apk可从"Android-Course-App\Android app\build\app\outputs\apk\release\app-release.apk"处获取
 
 ios：暂时没有apple的证书，所以实体机请连线进行调试
